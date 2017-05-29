@@ -1,4 +1,4 @@
-﻿빌드 시작: 2017-05-29 오후 7:26:45
+﻿빌드 시작: 2017-05-29 오후 7:30:21
      1>2 노드의 "C:\Users\dnflc\Game-in-C\vs2010\Game-in-C\Game-in-C.vcxproj" 프로젝트(build 대상)입니다.
      1>InitializeBuildStatus:
          "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\Game-in-C.unsuccessfulbuild"을(를) 만들고 있습니다.
@@ -56,4 +56,4 @@
 
 빌드했습니다.
 
-경과 시간: 00:00:01.13
+경과 시간: 00:00:01.15
